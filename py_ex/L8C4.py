@@ -1,0 +1,7 @@
+FO=open("names.txt",'w')
+FO.write("Iman\n")
+FO.write("Jack\n")
+FO.write("Rayan\n")
+FO.write("Rose\n")
+FO.write("Angel\n")
+FO.close()
